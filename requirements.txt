@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+diffusers
+opencv-python
+numpy
+pillow
+huggingface_hub
+accelerate
