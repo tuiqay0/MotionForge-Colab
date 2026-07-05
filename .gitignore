@@ -1,5 +1,15 @@
 __pycache__/
 *.pyc
+
 outputs/
 models/
+cache/
+logs/
+
 .env
+
+.ipynb_checkpoints/
+
+*.ckpt
+*.safetensors
+*.bin
